@@ -36,19 +36,7 @@ The objective is to move from raw transactional data to clear business questions
 
 ## Problem Statement
 
-Businesses often have large volumes of transactional sales data but lack a consolidated view of what is driving revenue and profitability.
-
-This project aims to:
-
-* Monitor overall sales and profit performance
-* Identify high-performing regions and sales channels
-* Analyze product and category performance
-* Compare salesperson performance
-* Understand customer segment contribution
-* Identify low-profit sub-categories
-* Analyze monthly and quarterly sales trends
-* Identify products with high sales but comparatively low profit
-* Support business decisions through interactive dashboard analysis
+![image alt](https://github.com/AnkitRauthan1441/Sales-Performance-Analytics-Dashboard/blob/d14c9ef39f7a960528f30e6f089b3be16dba61e5/Business%20Analytics%20Questions.png)
 
 ---
 
