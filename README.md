@@ -10,7 +10,7 @@
 * [Methods](#methods)
 * [Key Insights](#key-insights)
 * [Dashboard Output](#dashboard-output)
-* [Overview](#overview)
+* [Dashboard Preview](#Dashboard-Preview)
 * [How to Run This Project](#how-to-run-this-project)
 * [Results and Conclusion](#results-and-conclusion)
 * [Future Work](#future-work)
