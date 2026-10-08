@@ -264,7 +264,7 @@ Potential improvements for future versions include:
 Aspiring Data Analyst | SQL | Excel | Power BI | Python
 
 **LinkedIn:**  
-https://www.linkedin.com/in/ankit-rauthan-1815a541/
+[https://www.linkedin.com/in/ankit-rauthan-1815a541/](https://www.linkedin.com/in/ankit-rauthan-1815a5415/)
 
 **GitHub:**  
 https://github.com/AnkitRauthan1441
