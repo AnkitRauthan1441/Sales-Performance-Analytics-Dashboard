@@ -10,6 +10,7 @@
 * [Methods](#methods)
 * [Key Insights](#key-insights)
 * [Dashboard Output](#dashboard-output)
+* [Overview](#overview)
 * [How to Run This Project](#how-to-run-this-project)
 * [Results and Conclusion](#results-and-conclusion)
 * [Future Work](#future-work)
@@ -241,7 +242,6 @@ The **Online** channel generated the highest revenue with approximately **₹7.8
 
 ## Dashboard Preview
 
-### Sales Performance Dashboard
 
 ![image alt](https://github.com/AnkitRauthan1441/Sales-Performance-Analytics-Dashboard/blob/f0768688a64e3e74a9e05830641c8d357641303f/DashBoard-Overveiw.png)
 
