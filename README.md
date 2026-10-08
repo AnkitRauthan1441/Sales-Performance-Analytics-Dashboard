@@ -8,7 +8,7 @@
 * [Dataset](#dataset)
 * [Tools and Technologies](#tools-and-technologies)
 * [Methods](#methods)
-* [Key Insights](#key-insights)
+* [Insights](#Insights)
 * [Dashboard Output](#dashboard-output)
 * [Dashboard Preview](#Dashboard-Preview)
 * [How to Run This Project](#how-to-run-this-project)
@@ -146,7 +146,7 @@ The dataset contains **10,000 sales transactions** covering the period from **20
 
 ---
 
-## Business Key Insights
+## Insights
 
 ![image alt](https://github.com/AnkitRauthan1441/Sales-Performance-Analytics-Dashboard/blob/0b734627060bfbf9273c4cf28ffc5e68f2bdc14f/Key%20Business%20Insights.png)
 
