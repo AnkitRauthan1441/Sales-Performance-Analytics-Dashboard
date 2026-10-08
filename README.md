@@ -1,4 +1,4 @@
-# 📊 Sales Performance & Business Insights Dashboard
+# 📊 Sales-Performance-Analytics & Insights Dashboard
 
 ## Table of Contents
 
