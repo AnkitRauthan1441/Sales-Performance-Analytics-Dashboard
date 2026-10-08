@@ -243,7 +243,7 @@ The **Online** channel generated the highest revenue with approximately **₹7.8
 
 ### Sales Performance Dashboard
 
-![image alt]([image_url](https://github.com/AnkitRauthan1441/Sales-Performance-Analytics-Dashboard/blob/main/imagesdashboard-overview.png.png?raw=true)
+![image alt]([image_url](https://github.com/AnkitRauthan1441/Sales-Performance-Analytics-Dashboard/blob/main/imagesdashboard-overview.png.png?raw=true))
 
 ---
 
