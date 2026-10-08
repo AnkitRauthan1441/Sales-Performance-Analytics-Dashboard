@@ -146,63 +146,9 @@ The dataset contains **10,000 sales transactions** covering the period from **20
 
 ---
 
-## Key Insights
+## Business Key Insights
 
-### Overall Business Performance
-
-The dataset generated approximately:
-
-* **₹18.40 Cr Net Sales**
-* **₹3.54 Cr Total Profit**
-* **19.22% Overall Profit Margin**
-* **27,675 Units Sold**
-
-### Regional Performance
-
-**South** generated the highest total sales with approximately **₹6.10 Cr**.
-
-### Category Performance
-
-**Technology** was the highest-performing category with approximately **₹13.42 Cr** in net sales.
-
-### Customer Segment
-
-The **Consumer** segment generated the highest revenue with approximately **₹10.90 Cr**.
-
-### Sales Channel
-
-The **Online** channel generated the highest revenue with approximately **₹7.86 Cr**.
-
-### Quarterly Performance
-
-**Q4** generated the highest quarterly revenue with approximately **₹5.59 Cr**.
-
-### Salesperson Performance
-
-**Sunita Pillai** generated the highest total sales with approximately **₹1.49 Cr**.
-
-### Profitability Performance
-
-**Arjun Menon** generated the highest total profit among the salespersons.
-
-### Lowest-Profit Sub-category
-
-**Files & Folders** generated the lowest total profit with approximately **₹1.10 Lakh**.
-
----
-
-## Dashboard Output
-
-### Business KPIs
-
-* Total Transactions
-* Total Net Sales
-* Total Profit
-* Total Quantity
-* Profit Margin %
-* Top Quarter
-* Top Region
-* Top Sales Channel
+![image alt](https://github.com/AnkitRauthan1441/Sales-Performance-Analytics-Dashboard/blob/0b734627060bfbf9273c4cf28ffc5e68f2bdc14f/Key%20Business%20Insights.png)
 
 ### Analysis Views
 
