@@ -1,5 +1,5 @@
 # 📊 Sales Performance Analytics & Insights Dashboard
-
+![image alt](https://github.com/AnkitRauthan1441/Sales-Performance-Analytics-Dashboard/blob/bbe2029decd901630c56940efaf2c0be99c0432e/Sales%20Performance%20Dashboard%20Showcase.png)
 ## Table of Contents
 
 * [Brief One-Line Summary](#brief-one-line-summary)
